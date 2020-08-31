@@ -1,7 +1,8 @@
-Operacje wykonywane za pomocą Azure Command Line Interface.
-1)Tworzenie grupy zasobów
-2)Tworzenie konta magazynu
-3)Tworzenie kontenera
-4)Upload pliku z dysku lokalnego
-5)Wylistowanie plików znajdujących się w kontenerze
-6)Pobranie pliku z magazynu na dysk lokalny
+Podstawowe zadanie aby zapoznać się z Azure CLI, połączyć się ze swoją subskrypcją oraz wykonać kilka prostych czynności na plikach.
+Wszystkie operacje wykonywane za pomocą Azure Command Line Interface.<br/>
+1)Tworzenie grupy zasobów<br/>
+2)Tworzenie konta magazynu<br/>
+3)Tworzenie kontenera<br/>
+4)Upload pliku z dysku lokalnego<br/>
+5)Wylistowanie plików znajdujących się w kontenerze<br/>
+6)Pobranie pliku z magazynu na dysk lokalny<br/>
