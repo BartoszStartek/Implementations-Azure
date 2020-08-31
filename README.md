@@ -1,2 +1,6 @@
 # Implementations-Azure
-Jest to folder gdzie zamieszczam niektóre moje wdrożenia w ramach nauki w oparciu o zadania domowe z kursu Zrozum Cloud Computing, Zbuduj Silne Fundamenty Azure oraz Zrozum Wszystkie Usługi Azure prowadzonego przez Szkołę Chmury.
+Jest to folder gdzie zamieszczam niektóre moje wdrożenia w ramach nauki w oparciu o zadania domowe z kurów:<br/>
+1) Zrozum Cloud Computing
+2) Zbuduj Silne Fundamenty Azure
+3) Zrozum Wszystkie Usługi Azure
+prowadzonych przez Szkołę Chmury.
