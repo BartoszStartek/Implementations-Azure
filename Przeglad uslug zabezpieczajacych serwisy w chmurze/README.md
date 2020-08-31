@@ -7,5 +7,5 @@ To co możemy zaliczyć do security:<br/>
 -Firewall and virtual networks - konfigurowanie ustawień zapory,<br/>
 -Private endpoint connections - jak nazwa wskazuje, tworzenie prywatnych punktów końcowych służących do łączenia się z usługą,<br/>
 -Advanced Security (Security Center) - zaawansowane narzędzie do zarządzania bezpieczeństwem. Fajną możliwością jest monitorowanie naszych zasobów i sprawdzanie,<br/> które mają luki w zabezpieczeniach lub zostały źle zabezpieczone.<br/> 
--Locks - służy do blokowania operacji na zasobach(read-only, delete), <br/>
+-Locks - służy do blokowania operacji na zasobach(read-only,delete), <br/>
 -Activity log - możliwość śledzenia wszystkich wykonanych operacji. Można logi wyeksportować do innego formatu. 
